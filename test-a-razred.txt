@@ -1,1 +1,3 @@
-Tole je namenjeno demonstraciji Githuba!
+Tole je namenjeno Githubu!
+
+Zdaj bom pa naredil spremembo...
